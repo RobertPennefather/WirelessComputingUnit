@@ -1,5 +1,5 @@
-# CITS4419-Project
-Repository for storing code and datasets for use with the CITS4419 project
+# Mobile and Wireless Computing Project
+Repository for storing code and datasets for use with the Mobile and Wireless Computing unit project
 
 ## Mosquitto - MQTT Broker
 Setting up the Mosquitto Broker on Linux.
